@@ -1,6 +1,6 @@
 # Tauri Update Server: Cloudflare
 
-[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/killeencode/tauri-update-cloudflare)
+[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/Duncan-Industries/tauri-update-server)
 
 ## One-Click Deploy
 1. Click the button above, let Cloudflare walk you through: it's easy!
